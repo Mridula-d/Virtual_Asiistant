@@ -37,11 +37,6 @@ OS module – To launch system applications
 
 📦 Installation
 
-Clone this repository or download the script:
-
-git clone https://github.com/your-username/virtual-assistant.git
-cd virtual-assistant
-
 
 Install required dependencies:
 
